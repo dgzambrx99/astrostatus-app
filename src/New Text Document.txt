@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/56619941/how-can-i-hook-only-hid-keyboard-to-read-keys-like-a-keylogger-barcode-scanne/56620266#56620266
+https://stackoverflow.com/a/35839366
+
+
+let user specify (none, prepend and/or post) with two text inputs
